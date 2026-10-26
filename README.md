@@ -4,9 +4,6 @@ Este repositorio contiene la solución completa al reto de bucles y control de f
 
 ## 💻 Salida Esperada en la Terminal
 
-A continuación se muestra el resultado que arroja la consola al ejecutar las tres secciones de manera secuencial:
-
-```text
 === REGISTRO DE CALIFICACIONES ===
 Estudiante 1: 79
 Estudiante 2: 83
