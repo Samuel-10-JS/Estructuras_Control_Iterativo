@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Reto_Iterativo/1.0.0": {
+        "runtime": {
+          "Reto_Iterativo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reto_Iterativo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

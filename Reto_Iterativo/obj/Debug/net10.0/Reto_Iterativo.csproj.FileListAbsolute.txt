@@ -1,0 +1,14 @@
+C:\Users\samue\Documents\CSharp\Estructuras_Control_Iterativo\Reto_Iterativo\bin\Debug\net10.0\Reto_Iterativo.exe
+C:\Users\samue\Documents\CSharp\Estructuras_Control_Iterativo\Reto_Iterativo\bin\Debug\net10.0\Reto_Iterativo.deps.json
+C:\Users\samue\Documents\CSharp\Estructuras_Control_Iterativo\Reto_Iterativo\bin\Debug\net10.0\Reto_Iterativo.runtimeconfig.json
+C:\Users\samue\Documents\CSharp\Estructuras_Control_Iterativo\Reto_Iterativo\bin\Debug\net10.0\Reto_Iterativo.dll
+C:\Users\samue\Documents\CSharp\Estructuras_Control_Iterativo\Reto_Iterativo\bin\Debug\net10.0\Reto_Iterativo.pdb
+C:\Users\samue\Documents\CSharp\Estructuras_Control_Iterativo\Reto_Iterativo\obj\Debug\net10.0\Reto_Iterativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\CSharp\Estructuras_Control_Iterativo\Reto_Iterativo\obj\Debug\net10.0\Reto_Iterativo.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\CSharp\Estructuras_Control_Iterativo\Reto_Iterativo\obj\Debug\net10.0\Reto_Iterativo.AssemblyInfo.cs
+C:\Users\samue\Documents\CSharp\Estructuras_Control_Iterativo\Reto_Iterativo\obj\Debug\net10.0\Reto_Iterativo.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\CSharp\Estructuras_Control_Iterativo\Reto_Iterativo\obj\Debug\net10.0\Reto_Iterativo.dll
+C:\Users\samue\Documents\CSharp\Estructuras_Control_Iterativo\Reto_Iterativo\obj\Debug\net10.0\refint\Reto_Iterativo.dll
+C:\Users\samue\Documents\CSharp\Estructuras_Control_Iterativo\Reto_Iterativo\obj\Debug\net10.0\Reto_Iterativo.pdb
+C:\Users\samue\Documents\CSharp\Estructuras_Control_Iterativo\Reto_Iterativo\obj\Debug\net10.0\Reto_Iterativo.genruntimeconfig.cache
+C:\Users\samue\Documents\CSharp\Estructuras_Control_Iterativo\Reto_Iterativo\obj\Debug\net10.0\ref\Reto_Iterativo.dll
